@@ -1,0 +1,6 @@
+{
+  "appId": "uz.konda.app",
+  "appName": "Conda App",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

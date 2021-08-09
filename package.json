@@ -1,0 +1,22 @@
+{
+  "name": "capacitor-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@capacitor/android": "^3.1.2",
+    "@capacitor/core": "^3.1.2",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.1.2",
+    "@nuxtjs/vuetify": "^1.12.1"
+  }
+}
